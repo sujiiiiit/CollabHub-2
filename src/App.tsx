@@ -1,9 +1,12 @@
+import Login from "./pages/Login";
+// import Main from "./pages/Home";
+// import {Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div>
-      <h1>CollabHub</h1>
-    </div>
+    <>
+      <Login />
+    </>
   );
 }
 
